@@ -5,7 +5,7 @@ describe('', () => {
 
     describe('Article flow', () => {
       const user = {
-        email: 'wDAsaliuk09@gmail.com',
+        email: 'DAsaliuk09@gmail.com',
         password: 'DAsaliuk09@'
       };
 
